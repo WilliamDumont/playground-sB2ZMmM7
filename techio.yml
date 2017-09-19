@@ -1,0 +1,5 @@
+title: Simple Groovy template
+
+plan:
+  - title: Groovy Snippet
+    statement: statement.md
