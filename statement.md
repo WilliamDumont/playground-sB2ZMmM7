@@ -1,7 +1,6 @@
 # Welcome!
 
-This Groovy template lets you get started quickly
-
+This Groovy template lets you get start
 ```groovy runnable
 println "Hello World!"
 ```
