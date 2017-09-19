@@ -1,6 +1,6 @@
 # Welcome!
 
-This Groovy template lets you get started quickly with a simple one-page playground.
+This Groovy template lets you get started quickly
 
 ```groovy runnable
 println "Hello World!"
