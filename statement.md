@@ -1,6 +1,6 @@
 # Welcome!
 
-This Groovy t
+This Groovy template is in german
 ```groovy runnable
 println "Hello World!"
 ```
