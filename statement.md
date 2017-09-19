@@ -1,6 +1,6 @@
 # Welcome!
 
-This Groovy templateaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+This Groovy t
 ```groovy runnable
 println "Hello World!"
 ```
